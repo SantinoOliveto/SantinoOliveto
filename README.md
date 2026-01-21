@@ -1,27 +1,69 @@
-# 💫 About Me:
-💻 Hi! I'm Santino Oliveto, a student currently pursuing a Technical Degree in Computer Programming.  💻<br><br>🚀 I'm passionate about coding, problem-solving, and constantly learning new technologies to level up my skills. 🚀
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=true&text=Full%20Stack%20Developer%20in%20progress%20%F0%9F%9A%80&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox"  />
+</div>
 
+###
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santioliveto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santino-oliveto-572039302/) 
+<h5 align="center">👋 Hola, soy Santino<br><br>Aspirante a Desarrollador Full Stack desde Argentina 🇦🇷<br><br>Actualmente estoy aprendiendo el stack MERN (MongoDB, Express, React y Node.js). Si bien la idea es ser full stack, hoy en día me estoy enfocando principalmente en frontend, tratando de hacer interfaces prolijas, funcionales y fáciles de usar.<br><br>Me interesa entender bien cómo funcionan las cosas, no solo copiar soluciones. Estoy en constante aprendizaje, probando, rompiendo y mejorando código todos los días.<br><br>Todavía no hay muchos proyectos publicados por acá, pero están en camino. Este perfil va a ir creciendo a medida que avance y vaya subiendo lo que estoy construyendo 🚀<br><br>🎧 Código + música<br>📚 Aprendiendo siempre<br>⚙️ Paso a paso, sin apuro pero sin pausa</h5>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SantinoOliveto&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SantinoOliveto&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SantinoOliveto&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SantinoOliveto&theme=synthwave&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img align="right" height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o4MTBwdDQ1YTEzenMwMzIxd3dmOXhmcG1yNmI1eGx0bHMweDRzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/enj50kao8gMfu/giphy.gif"  />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SantinoOliveto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+###
 
----
-[![](https://visitcount.itsvg.in/api?id=SantinoOliveto&icon=2&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://open.spotify.com/user/uzbbudv3i4ne53pisoo3lnegi">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=uzbbudv3i4ne53pisoo3lnegi&count=7&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/santioliveto?igsh=ZXpkdGZudXR3MGJ5" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/santino-oliveto-572039302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/watch?v=jhxczXVTXgc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/SantinoOliveto/SantinoOliveto/output/snake.svg" alt="Snake animation" />
+
+###
